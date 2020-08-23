@@ -1,8 +1,8 @@
-# PlatIntel Back
+# PlatIntel Server
 
-Back End Project
+Business Intelligence Tool for detecting Twitter Campaigns. Back End Project
 
-### Prerequisites
+## Prerequisites
 
 Docker
 
@@ -41,7 +41,7 @@ heroku container:release web -a platintel-back
 
 ## Authors
 
-- **JRC**
+- **https://github.com/jramirezc93/**
 
 ## License
 
